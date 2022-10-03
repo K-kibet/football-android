@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LiveSoccer</string>
+    <string name="ft">FT</string>
+    <string name="head">winner  1x2</string>
+    <string name="ov25">over/under 2.5</string>
+    <string name="ov35">over/under 3.5</string>
+    <string name="ov15">over/under 1.5</string>
+    <string name="over">Over</string>
+    <string name="under">Under</string>
+    <string name="draw">Draw</string>
+</resources>
